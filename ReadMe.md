@@ -23,3 +23,5 @@ python scrap.py --mode all
 ```bash
 python scrap.py --mode update
 ```
+
+Todos os dados ficam salvos no banco sqlite `data/crypto.db`.
