@@ -7,8 +7,9 @@ Códigos destinados a coleta e m,doelagem preditiva de bitcoin a partir da API d
 ### Configuração do ambiente
 
 ```bash
-conda create --name crypto --file requirements.txt
+conda create --name crypto python=3.9
 conda activate crypto
+pip install -r requirements.txt
 ```
 
 ### Coleta de dados históricos
