@@ -1,52 +1,7 @@
-backcall==0.2.0
-Bottleneck @ file:///tmp/build/80754af9/bottleneck_1607575130224/work
-brotlipy==0.7.0
-certifi==2021.10.8
-cffi @ file:///tmp/build/80754af9/cffi_1613246951236/work
-charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
-cryptography @ file:///tmp/build/80754af9/cryptography_1635366129652/work
-cycler==0.11.0
-debugpy==1.4.0
-decorator==5.0.9
-greenlet @ file:///tmp/build/80754af9/greenlet_1628888132713/work
-idna @ file:///tmp/build/80754af9/idna_1622654382723/work
-ipykernel==6.0.3
-ipython==7.25.0
-ipython-genutils==0.2.0
-jedi==0.18.0
-joblib @ file:///tmp/build/80754af9/joblib_1635411271373/work
-jupyter-client==6.1.12
-jupyter-core==4.7.1
-kiwisolver==1.3.2
-matplotlib==3.4.3
-matplotlib-inline==0.1.2
-mkl-fft==1.3.1
-mkl-random @ file:///tmp/build/80754af9/mkl_random_1626186066731/work
-mkl-service==2.4.0
-numexpr @ file:///tmp/build/80754af9/numexpr_1618856529730/work
-numpy @ file:///tmp/build/80754af9/numpy_and_numpy_base_1634095651905/work
-pandas==1.3.4
-parso==0.8.2
-pexpect==4.8.0
-pickleshare==0.7.5
-Pillow==8.4.0
-prompt-toolkit==3.0.19
-ptyprocess==0.7.0
-pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
-Pygments==2.9.0
-pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1635333100036/work
-pyparsing==3.0.6
-PySocks @ file:///tmp/build/80754af9/pysocks_1605305812635/work
-python-dateutil==2.8.2
-pytz==2021.3
-pyzmq==22.1.0
-requests @ file:///tmp/build/80754af9/requests_1629994808627/work
-scikit-learn @ file:///tmp/build/80754af9/scikit-learn_1635187048948/work
-scipy @ file:///tmp/build/80754af9/scipy_1630606796912/work
-six @ file:///tmp/build/80754af9/six_1623709665295/work
-SQLAlchemy @ file:///tmp/build/80754af9/sqlalchemy_1626947882125/work
-threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
-tornado==6.1
-traitlets==5.0.5
-urllib3==1.26.7
-wcwidth==0.2.5
+matplotlib==3.3.4
+numpy==1.20.1
+pandas==1.2.4
+requests==2.25.1
+scikit_learn==1.0.1
+scipy==1.6.2
+SQLAlchemy==1.4.15
